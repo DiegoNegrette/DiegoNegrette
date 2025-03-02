@@ -4,10 +4,18 @@ Hi 👋 My name is Diego Negrette
 Software Developer
 ------------------
 
-I am a 24 year old Frontend Developer with a Bachelor's Degree in Telecommunication Engineering. Proactive, organized and self-taught, capable of performing tasks that require team work, problem solving, and strong communication skills. Passionate about web technologies, telematics and baseball.
+I am a Senior Backend Developer with +5 Years Software Development Experienc with proven ability to solve complex problems, handle technical challenges, generate rapid results, and continuously expand my knowledge base while adapting quickly to evolving environments.
+I thrive in fast-paced settings, whether working independently or collaborating with cross-functional teams
+I excel at leveraging data—through analysis, normalization, processing, and reporting—to drive informed decision-making and business outcomes.
 
-* 🌍  I'm based in Caracas, VE.
-* ✉️  You can contact me at [diegons\_42@hotmail.com](mailto:diegons_42@hotmail.com)
+Key Skills:
+1. Python, Django, Django Rest Framework, Api Rest, Selenium, Web Scraping
+2. Data ETL processes, Celery, RabbitMQ
+3. TypeScript, Node, Angular
+4. Git, Docker, SQL, Kubernetes
+
+* 🌍  I'm based in Madrid, SPAIN.
+* ✉️  You can contact me at [d.negrette42@gmail.com](mailto:d.negrette42@gmail.com)
 
 ### Skills
 
@@ -45,6 +53,7 @@ I am a 24 year old Frontend Developer with a Bachelor's Degree in Telecommunicat
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/DiegoNegrette"><img src="https://github-readme-stats.vercel.app/api?username=DiegoNegrette&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegoNegrette's GitHub stats" /></a>
+[![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoNegrette)]
 
 <a href="http://www.github.com/DiegoNegrette"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoNegrette&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
