@@ -4,7 +4,7 @@ Hi 👋 My name is Diego Negrette
 Software Developer
 ------------------
 
-I am a Senior Backend Developer with +5 Years Software Development Experienc with proven ability to solve complex problems, handle technical challenges, generate rapid results, and continuously expand my knowledge base while adapting quickly to evolving environments.
+I am a Senior Backend Developer with +5 Years Software Development Experience with proven ability to solve complex problems, handle technical challenges, generate rapid results, and continuously expand my knowledge base while adapting quickly to evolving environments.
 I thrive in fast-paced settings, whether working independently or collaborating with cross-functional teams
 I excel at leveraging data—through analysis, normalization, processing, and reporting—to drive informed decision-making and business outcomes.
 
