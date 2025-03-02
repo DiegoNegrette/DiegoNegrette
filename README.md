@@ -14,7 +14,7 @@ Key Skills:
 3. TypeScript, Node, Angular
 4. Git, Docker, SQL, Kubernetes
 
-* 🌍  I'm based in Madrid, SPAIN.
+* 🌍  I'm based in Madrid, Spain.
 * ✉️  You can contact me at [d.negrette42@gmail.com](mailto:d.negrette42@gmail.com)
 
 ### Skills
@@ -48,9 +48,10 @@ Key Skills:
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/Diegonegrette42#9351" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/DiegoNegrette" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/n0onebutme" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/diegonegrette" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-### Badges
 
-<b>My GitHub Stats</b>
+<!--
+### Badges
+<b>My GitHub Stats</b> -->
 
 <!-- <a href="http://www.github.com/DiegoNegrette"><img src="https://github-readme-stats.vercel.app/api?username=DiegoNegrette&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegoNegrette's GitHub stats" /></a>
 <a href="http://www.github.com/DiegoNegrette"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoNegrette&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
